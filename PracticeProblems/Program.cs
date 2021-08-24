@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Threading.Tasks;
+using static PracticeProblems.SnakeGame;
 
 namespace PracticeProblems
 {
@@ -10,7 +11,8 @@ namespace PracticeProblems
             /*Hello();
             Sum();
             Divide();*/
-            NumberSwap();
+            // NumberSwap();
+            MainSnake();
         }
 
         static void Hello()
