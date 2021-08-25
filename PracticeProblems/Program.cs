@@ -2,6 +2,7 @@
 using System.Threading.Tasks;
 using static PracticeProblems.SnakeGame;
 using static PracticeProblems.ValueChecker;
+using static PracticeProblems.NumberArrayCounter;
 
 namespace PracticeProblems
 {
@@ -14,7 +15,8 @@ namespace PracticeProblems
             Divide();*/
             // NumberSwap();
             //MainSnake();
-            MainValue();
+            //MainValue();
+            NumberMain();
         }
 
         static void Hello()
